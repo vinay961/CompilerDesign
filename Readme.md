@@ -1,0 +1,1 @@
+Creating a simple compiler that translate high level language into machine code/low level language.
